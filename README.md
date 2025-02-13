@@ -5,8 +5,6 @@
 
 [Installation]()
 <br>
-[Thesis]()
-<br>
 [References]()
 <br>
 [Colors]()
