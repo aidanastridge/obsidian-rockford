@@ -6,17 +6,17 @@
 
 [Installation](https://github.com/aidanastridge/obsidian-rockford/blob/master/README.md#installation)
 <br>
-[References]()
+[References](https://github.com/aidanastridge/obsidian-rockford/blob/master/README.md#references)
 <br>
-[Colors](https://github.com/aidanastridge/obsidian-rockford?tab=readme-ov-file#colors)
+[Colors](https://github.com/aidanastridge/obsidian-rockford/blob/master/README.md#colors)
 <br>
-[Classes]()
+[Classes](https://github.com/aidanastridge/obsidian-rockford/blob/master/README.md#classes)
 <br>
-[Developers]()
+[Developers](https://github.com/aidanastridge/obsidian-rockford/blob/master/README.md#developers)
 <br>
-[License]()
+[License](https://github.com/aidanastridge/obsidian-rockford/blob/master/README.md#license)
 <br>
-[Disclaimer]()
+[Disclaimer](https://github.com/aidanastridge/obsidian-rockford/blob/master/README.md#disclaimer)
 
 #### Installation
 
