@@ -8,7 +8,7 @@
 <br>
 [References]()
 <br>
-[Colors]()
+[Colors](https://github.com/aidanastridge/obsidian-rockford?tab=readme-ov-file#colors)
 <br>
 [Classes]()
 <br>
