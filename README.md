@@ -4,7 +4,7 @@
 
 ### Index
 
-[Installation](https://github.com/aidanastridge/obsidian-rockford?tab=readme-ov-file#installation)
+[Installation](https://github.com/aidanastridge/obsidian-rockford/blob/master/README.md#installation)
 <br>
 [References]()
 <br>
